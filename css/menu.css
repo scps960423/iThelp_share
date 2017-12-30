@@ -13,9 +13,16 @@
     background-color: #4A4A4A;
 }
 
+.menu .title span {
+    font-size: 2em;
+    color: #ffffff;
+    margin-left: 20px;
+}
+
 .menu ul li {
-    /* width: 100%; */
-    padding: 20px;
+    font-size: 1.3em;
+    font-width: 300;
+    padding: 10px 30px;
     color: #ffffff;
     transition: 0.25s;
 }
@@ -24,6 +31,7 @@
     background-color: #e29e9e;
     color: #4a4a4a;
 }
+
 
 /* .menu ul .li_active {
     background-color: #e29e9e;
