@@ -1,7 +1,7 @@
 .content {
     width: 100vw;
     height: 100vh;
-    background-color: rgb(226, 129, 129);
+    
 }
 
 .content .banner {
@@ -38,5 +38,5 @@
 }
 
 .content .news {
-    background-color: rgb(104, 225, 230);
+    margin-top: 50px;
 }
